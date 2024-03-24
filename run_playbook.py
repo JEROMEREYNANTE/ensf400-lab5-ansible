@@ -13,4 +13,3 @@ if __name__ == "__main__":
     print("Errors if any:")
     print(stderr)
 
-s
