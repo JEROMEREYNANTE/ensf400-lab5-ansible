@@ -39,3 +39,5 @@ def load_inventory_and_ping():
 
 if __name__ == "__main__":
     load_inventory_and_ping()
+
+s
